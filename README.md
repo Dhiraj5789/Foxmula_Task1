@@ -1,3 +1,3 @@
 # Foxmula_Task1
 Created with CodeSandbox
-Task 1 Link : https://4phmp.csb.app/
+Task 1 Link : https://csb-3cv02.netlify.app/
