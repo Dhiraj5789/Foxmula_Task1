@@ -47,14 +47,3 @@ export default function App() {
     </div>
   );
 }
-
-// How to apply the following JavaScript to react component above?
-
-// <script>
-// window.addEventListener('scroll', function() {
-//     const parallax = document.querySelector('.parallax');
-//     let scrollPosition = window.pageYOffset;
-
-//     parallax.style.transform = `translateY(${scrollPosition * .5}px)`
-// })
-// </script>
